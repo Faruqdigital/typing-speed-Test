@@ -43,7 +43,7 @@ const wordsList = [
   "pride",
 ];
 
-const defaultTime = 3;
+const defaultTime = 5;
 const defaultScore = 0;
 
 function startGame() {
